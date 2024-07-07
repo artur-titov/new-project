@@ -27,7 +27,7 @@ git config --local user.email "<github_email>"
 ```
 Added ssh host:
 ```sh
-git add remote add origin git@github.com:<github_username>/new-project.git
+git remote add origin git@github.com:<github_username>/new-project.git
 ```
 
 ### Added README file
